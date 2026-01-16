@@ -2,6 +2,7 @@
   "name": "Mostafizur AI Assistant",
   "description": "A specialized AI assistant for Bangladeshi citizens providing guidance on government services, health, jobs, and agriculture in simple Bangla.",
   "requestFramePermissions": [
-    "microphone"
+    "microphone",
+    "camera"
   ]
 }
